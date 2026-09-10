@@ -1,0 +1,6 @@
+{
+  "name": "Folder Project Web Server",
+  "description": "A secure web server for hosting folder-based web projects with dynamic URL generation, local encrypted authentication database, Gemini-powered folder description generator, project status control, and custom project password protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
